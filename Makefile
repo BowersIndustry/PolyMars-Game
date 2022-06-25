@@ -31,7 +31,10 @@ INCLUDES := include
 DATA     := data
 GRAPHICS := gfx
 AUDIO    := sound
-ICON     := #icon.bmp
+ICON     := icon.bmp
+GAME_TITLE     := PolyMars' Space Adventure
+GAME_SUBTITLE1 := BowersIndustry
+GAME_SUBTITLE2 := Made with libnds
 
 # specify a directory which contains the nitro filesystem
 # this is relative to the Makefile
