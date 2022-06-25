@@ -7,7 +7,6 @@ SpriteEntry OAMCopy[128];
 
 #include <Store.h>
 #include <Scroll.h>
-#include <ScarletMap.h>
 #include <PolyMars16.h>
 #include <Enemy.h>
 #include <Hearts.h>
